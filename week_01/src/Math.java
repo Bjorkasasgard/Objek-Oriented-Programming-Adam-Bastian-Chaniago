@@ -1,4 +1,4 @@
-public class Math { // membuat class Math
+public class Math { // membuat class Math (mesin)
     double no1; // notegwh: proprty (variable untuk menampung data)
     double no2;
     double no3;
