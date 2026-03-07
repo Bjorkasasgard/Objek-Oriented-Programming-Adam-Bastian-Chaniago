@@ -16,3 +16,29 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 ## Dependency Management
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+You are asked to build a simple Online Shop Product System using Object-Oriented Programming.
+
+Each product has:
+
+Product ID
+
+Product Name
+
+Price
+
+Stock
+
+Category
+
+The system must be able to:
+
+Add stock
+
+Sell product (reduce stock)
+
+Display product details
+
+Apply discount
+
+Check stock availability
