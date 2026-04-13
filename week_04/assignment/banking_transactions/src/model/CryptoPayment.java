@@ -1,3 +1,5 @@
+package model;
+
 public class CryptoPayment extends Payment {
     private String walletAddress;
 

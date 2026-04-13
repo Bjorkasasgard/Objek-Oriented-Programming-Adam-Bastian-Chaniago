@@ -1,3 +1,5 @@
+package model;
+
 public class CreditCardPayment extends Payment {
     private String cardNumber;
     private String cardHolder;
